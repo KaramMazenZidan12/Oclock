@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&display=swap');
+.mnm{
+    color: #e7ac4e;
+    font-size: 80px;
+    
+}
+
+
+.ghh{
+    border-style: solid;
+    border-color:#e7ac4e;
+    border-width: 2px;
+    margin-bottom: 14px;
+}
+.ghhs{
+    border-style: solid;
+    border-color: #e7ac4e;
+    border-width: 2px;
+    margin-top: -50px;
+}
+
+.bv{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 16px;
+    font-weight: 700;
+}
+.kkks{
+    font-size: 80px;
+    color: #ebcc5f;
+  }
+  .klls{
+    font-size:70px;
+    color: #ffffff;
+    
+  }
+  
+  @media screen and (max-width: 1199px) {
+  
+    .bv{
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 12px;
+      font-weight: 700;
+  }
+  }
+ 
+  @media screen and (max-width:  990px) {
+  
+    .bv{
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 10px;
+      font-weight: 700;
+  }
+  }
+  @media screen and (max-width: 992px) {
+    .kkks{
+      font-size: 60px;
+      color: #ebcc5f;
+    }
+   
+   
+     .klls{
+      font-size:60px;
+      color: #ffffff;
+    }
+    .bv{
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 10px;
+      font-weight: 700;
+  }
+  }
+  @media screen and (max-width: 671px) {
+    .kkks{
+      font-size: 38px;
+      color: #ebcc5f;
+    }
+   
+   
+     .klls{
+      font-size: 40px;
+      color: #ffffff;
+    }
+    .bv{
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 10px;
+      font-weight: 700;
+  }
+  }
+
+
+  @media screen and (max-width: 671px) {
+
+    .mnm{
+      font-size: 50px;
+    }
+  }
