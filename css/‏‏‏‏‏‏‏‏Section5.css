@@ -78,18 +78,22 @@
 .card:nth-child(1):before {
   background-image: url("../image/a.jpg");
   background-position: center;
+      object-fit: cover;
 }
 .card:nth-child(2):before {
   background-image: url("../image/s.jpg");
   background-position: center;
+    object-fit: cover;
 }
 .card:nth-child(3):before {
   background-image: url("../image/d.jpg");
   background-position: center;
+      object-fit: cover;
 }
 .card:nth-child(4):before {
   background-image: url("../image/f.jpg");
   background-position: center;
+      object-fit: cover;
 }
 
 .content {
